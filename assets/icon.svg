@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#f0f4ff"/>
+  <rect x="45" y="50" width="50" height="60" rx="3" fill="#e74c3c" opacity="0.8"/>
+  <polygon points="95,80 145,55 145,105" fill="#4a90d9" opacity="0.8"/>
+  <text x="70" y="55" text-anchor="middle" fill="white" font-size="10" font-family="Arial">微信</text>
+  <text x="145" y="50" text-anchor="middle" fill="white" font-size="10" font-family="Arial">抖音</text>
+  <rect x="65" y="130" width="60" height="40" rx="3" fill="#ff6b6b" opacity="0.7"/>
+  <text x="95" y="155" text-anchor="middle" fill="white" font-size="10" font-family="Arial">小红书</text>
+  <path d="M95,80 C95,100 80,110 65,130" stroke="#333" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M95,80 C120,100 120,115 145,105" stroke="#333" stroke-width="1.5" fill="none"/>
+  <path d="M95,110 C95,115 95,120 95,130" stroke="#333" stroke-width="1.5" fill="none"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#333"/></marker></defs>
+  <text x="65" y="30" fill="#333" font-size="13" font-weight="bold" font-family="Arial">内容同步</text>
+</svg>
